@@ -1,0 +1,6 @@
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\ServiceClient\bin\Debug\ServiceClient.exe
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\ServiceClient\bin\Debug\ServiceClient.pdb
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\ServiceClient\obj\Debug\ServiceClient.exe
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\ServiceClient\obj\Debug\ServiceClient.pdb
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\ServiceClient\bin\Debug\ServiceClient.exe.config
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\ServiceClient\obj\Debug\ServiceClient.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\WinServiceCalculator\bin\Debug\WinServiceCalculator.exe.config
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\WinServiceCalculator\bin\Debug\WinServiceCalculator.exe
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\WinServiceCalculator\bin\Debug\WinServiceCalculator.pdb
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\WinServiceCalculator\bin\Debug\WCFHost.dll
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\WinServiceCalculator\bin\Debug\WCFHost.pdb
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\WinServiceCalculator\obj\Debug\WinServiceCalculator.csprojResolveAssemblyReference.cache
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\WinServiceCalculator\obj\Debug\WinServiceCalculator.CalculatorServiceInstaller.resources
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\WinServiceCalculator\obj\Debug\WinServiceCalculator.csproj.GenerateResource.Cache
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\WinServiceCalculator\obj\Debug\WinServiceCalculator.exe
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\WinServiceCalculator\obj\Debug\WinServiceCalculator.pdb
