@@ -8,3 +8,6 @@ C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\W
 C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\WinServiceCalculator\obj\Debug\WinServiceCalculator.csproj.GenerateResource.Cache
 C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\WinServiceCalculator\obj\Debug\WinServiceCalculator.exe
 C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\WinServiceCalculator\obj\Debug\WinServiceCalculator.pdb
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\build\WinServiceCalculator.exe.config
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\build\WinServiceCalculator.exe
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\build\WinServiceCalculator.pdb

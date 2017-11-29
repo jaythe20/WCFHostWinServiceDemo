@@ -21,6 +21,7 @@
     <MetadataSource Address="http://localhost:7097/CalculatorService" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
+    <MetadataFile FileName="CalculatorService2.xsd" MetadataType="Schema" ID="082e1f64-a9ea-4537-890b-03d58590caaa" SourceId="1" SourceUrl="http://localhost:7097/CalculatorService?xsd=xsd2" />
     <MetadataFile FileName="CalculatorService.disco" MetadataType="Disco" ID="763840a7-ced1-4dc0-983d-a49f328ae074" SourceId="1" SourceUrl="http://localhost:7097/CalculatorService?disco" />
     <MetadataFile FileName="CalculatorService.wsdl" MetadataType="Wsdl" ID="73323118-28f6-4c42-9ae8-04b0e9232f14" SourceId="1" SourceUrl="http://localhost:7097/CalculatorService?wsdl" />
     <MetadataFile FileName="CalculatorService.xsd" MetadataType="Schema" ID="2f7b3883-02ae-4a1b-8994-21597f751f4a" SourceId="1" SourceUrl="http://localhost:7097/CalculatorService?xsd=xsd0" />

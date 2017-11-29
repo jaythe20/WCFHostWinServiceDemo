@@ -1,6 +1,8 @@
 C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\WCFHost\bin\Debug\WCFHost.dll.config
 C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\WCFHost\bin\Debug\WCFHost.dll
 C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\WCFHost\bin\Debug\WCFHost.pdb
-C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\WCFHost\obj\Debug\WCFHost.csprojResolveAssemblyReference.cache
 C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\WCFHost\obj\Debug\WCFHost.dll
 C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\WCFHost\obj\Debug\WCFHost.pdb
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\build\WCFHost.dll.config
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\build\WCFHost.dll
+C:\Users\jay.thakkar\Documents\SourceCode\DemoApps\WinWcfService\ServiceClient\build\WCFHost.pdb

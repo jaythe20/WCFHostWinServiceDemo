@@ -17,7 +17,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>bin\Debug\</OutputPath>
+    <OutputPath>..\build\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -70,6 +70,9 @@
     <None Include="Service References\CalcClient\CalculatorService.disco" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Service References\CalcClient\CalculatorService2.xsd">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Service References\CalcClient\configuration91.svcinfo" />
   </ItemGroup>
   <ItemGroup>

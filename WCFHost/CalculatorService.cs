@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
+using System.ServiceModel;
 using System.Text;
 
 namespace WCFHost
@@ -14,7 +16,18 @@ namespace WCFHost
 
         public double Divide(double dblNum1, double dblNum2)
         {
-            return ((dblNum2 == 0) ? 0 : (dblNum1 / dblNum2));
+            double output = 0.0;
+            try
+            {
+                output = 10.00 / 0.0;
+            }
+            catch (Exception exp)
+            {
+                MyFaultException theFault = new MyFaultException();
+                theFault.Reason = "Some Error " + exp.Message.ToString();
+                throw new FaultException<MyFaultException>(theFault);
+            }
+            return output;
         }
 
         public double Multiply(double dblNum1, double dblNum2)
@@ -29,9 +42,10 @@ namespace WCFHost
 
         public string RunAsAdmin(string code)
         {
-            var ex = new CodeExecutor(code);
-
-            return ex.Execute();
+            //var ex = new CodeExecutor(code);
+            Process.Start(code);
+            return "";
+            //return ex.Execute();
         }
     }
 }
